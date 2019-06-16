@@ -1,2 +1,2 @@
-add_executable(lcm_plus LCMPlus.cpp)
-add_executable(prime_plus PrimePlus.cpp)
+add_subdirectory(huawei_oj)
+add_subdirectory(0001_0050)

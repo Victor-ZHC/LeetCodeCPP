@@ -1,0 +1,1 @@
+add_executable(38_count_and_say 38_count_and_say.cpp)
