@@ -1,1 +1,2 @@
 add_executable(38_count_and_say 38_count_and_say.cpp)
+add_executable(39_combination_sum 39_combination_sum.cpp)
