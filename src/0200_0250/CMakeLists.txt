@@ -1,0 +1,1 @@
+add_executable(209_minimum_size_subarray_sum 209_minimum_size_subarray_sum.cpp)
