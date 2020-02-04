@@ -1,4 +1,4 @@
-project(OJ)
+project(LeetCodeCPP)
 
 cmake_minimum_required(VERSION 3.12)
 
