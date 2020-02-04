@@ -1,0 +1,2 @@
+add_executable(65_valid_number 65_valid_number.cpp)
+add_executable(72_edit_distance 72_edit_distance.cpp)

@@ -1,3 +1,4 @@
 add_subdirectory(huawei_oj)
 add_subdirectory(0001_0050)
+add_subdirectory(0051_0100)
 add_subdirectory(0200_0250)
